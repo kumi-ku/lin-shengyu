@@ -1,37 +1,23 @@
-# Engineering_class_assingment
+# Sci\_Python\_2026\_class
 
 #### 介绍
-用来交工程思维与创新方法作业的库，2026_xguo
 
-#### 软件架构
-软件架构说明
+2016年光电科学计算与数值分析小学期课程\_作业提交库
 
+#### 
 
-#### 安装教程
+#### 提交步骤与要求
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+* 注册gitee.com网站用户，并用git客户端克隆(clone)“作业提交库”到本地电脑，即建立本地库
+* 要求在2026年10月15前完成提交，此时间点之前作业提交库为“所有人可见”，之后会
+* 在本地库新建文件夹，命名方式为“学号+姓名”，例如 3025xxxxxx某某某
+* 在建立的文件夹内整理好作业电子版文件，并本地提交(commit)
+* 上传(push)到远程的服务器
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 注意事项：
+
+* 除了在自己新建的文件夹内，不要修改任何其他文件和文件夹！！
+* 本人文件夹内请自行有逻辑的命名并组织文件结构，接受一个或多个源代码文件（文本文件.py），一个报告文件（pdf格式）。整体大小不超过20MB！！
+
